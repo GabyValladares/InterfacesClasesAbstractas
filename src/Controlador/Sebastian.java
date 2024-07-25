@@ -9,5 +9,8 @@ package Controlador;
  * @author Lenovo 2024
  */
 public class Sebastian { 
-
+    public static void main(String[] args) {
+        System.out.println("Hola");
+    }
+         
 }
