@@ -9,5 +9,4 @@ package controlador;
  * @author Usuario
  */
 public class Jair {
-    
 }
