@@ -2,12 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Controlador;
+package controlador;
 
 /**
  *
- * @author Lenovo 2024
+ * @author Wilson Enriquez
  */
-public class Sebastian { 
-
+public class WilsonEnriquez {
+    
+    public String a;
+    
+   
 }
